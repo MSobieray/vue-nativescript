@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_944923094843d1ce2802e12c0e3ecdbac5b536a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-26.0.0-alpha1_dfc9807dd4458b54803b093ff761bef7b3e5052d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-26.0.0-alpha1_5c46db9450d1437c0841e6d4f9fe6e0f90a7697d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-26.0.0-alpha1_851cab6d4399954e40b22983a2ba97fe46327cb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-26.0.0-alpha1_f8a31145d1f676c603185555c3cc059d1bed2ccd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_b1986f12fdf038164efd61ae84ff8d0ca7d8587d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-26.0.0-alpha1_e929b5fa39a6abaf0e440c1d0db862043bef32b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-26.0.0-alpha1_fb79f146fe1e4863921c1f5e7b9986fe5d094aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-26.0.0-alpha1_b82ec9aa41d10777ce35c6292ca29311b4ece095.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-26.0.0-alpha1_739e792c7a2bef3816201730c659a4a849bcfc68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_3168733d7ae1acfd3c023e35aea85e1168e00f5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_128f7239612ac6a5accce9c642be735245d2d3ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/exploded-aar/VueNativeScript/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/VueNativeScript-runtime-unspecified_32a70201bc2dea2318216d93102da79b0fcef4f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/exploded-aar/VueNativeScript/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_2eff6ffef26b4eb95739ab41a31629f5a299c461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-26.0.0-alpha1_921487f46b74b96694d831560edd2750488eec09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/mattsobieray/Sites/playground/VueNativeScript/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-26.0.0-alpha1_c4f2d31255661e8b0fd4239bb628e6e01c952d4e.jar" />
+    </item>
+
+</items>
