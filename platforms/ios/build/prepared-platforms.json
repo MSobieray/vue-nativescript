@@ -1,0 +1,8 @@
+{
+    "nativescript-theme-core": true,
+    "nativescript-vue": true,
+    "tns-core-modules": true,
+    "vue-router": true,
+    "vue": true,
+    "tns-core-modules-widgets": true
+}

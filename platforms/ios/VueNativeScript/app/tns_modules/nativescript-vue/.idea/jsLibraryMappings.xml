@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="nativescript-vue/vue-sample/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-vue/node_modules" />
+    <excludedPredefinedLibrary name="nativescript-vue/vue-sample/platforms/android/src/main/assets/app/node_modules" />
+    <excludedPredefinedLibrary name="nativescript-vue/vue-sample/platforms/android/src/main/assets/app/tns_modules/nativescript-vue/node_modules" />
+  </component>
+</project>

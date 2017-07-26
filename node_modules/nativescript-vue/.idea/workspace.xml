@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c89e4abb-7f9c-4bf4-8b5f-8027651288c0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+              <folding>
+                <marker date="1500032947578" expanded="true" signature="147:238" ph="{&quot;test&quot;: &quot;jest&quot;...}" />
+                <marker date="1500032947578" expanded="true" signature="881:886" ph="{&quot;vue&quot;: &quot;git+https://github.com/vuejs/vue.git##381b48503aae796c5c21c318cae8b0a8322dde35&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>no know</find>
+      <find>setAtt</find>
+      <find>initial</find>
+      <find>page</find>
+      <find>appendC</find>
+      <find>setSt</find>
+      <find>hasAttribute</find>
+      <find>lastChi</find>
+      <find>path</find>
+      <find>TabVe</find>
+      <find>tabV</find>
+      <find>warn</find>
+      <find>destroyItem</find>
+      <find>setCurrentItem</find>
+      <find>tab_view_common_1</find>
+      <find>trace</find>
+      <find>traceEnabled()</find>
+      <find>traceEnabled(</find>
+      <find>traceEnabled</find>
+      <find>removeChild</find>
+      <find>rendere</find>
+      <find>elReg</find>
+      <find>re</find>
+      <find>renderer</find>
+      <find>renderer2</find>
+      <find>rc</find>
+      <find>acti</find>
+      <find>images</find>
+      <find>wrap</find>
+      <find>core</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/../passport/</dir>
+      <dir>$PROJECT_DIR$/nativescript-vue/</dir>
+      <dir>$PROJECT_DIR$/nativescript-vue/node_modules</dir>
+      <dir>$PROJECT_DIR$/vue-sample/app</dir>
+      <dir>$PROJECT_DIR$/na</dir>
+      <dir>$PROJECT_DIR$/</dir>
+      <dir>$PROJECT_DIR$/nativescript-vue/node_modules/vue/</dir>
+      <dir>$PROJECT_DIR$/nativescript-vue/node_modules/</dir>
+      <dir>$PROJECT_DIR$/nativescript-vue/platform/nativescript/renderer</dir>
+      <dir>$PROJECT_DIR$/nativescript-vue/platform/nativescript</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/nativescript-vue/node_modules/vue/src/core/instance/lifecycle.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/renderer/view-node.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/renderer/document.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/.babelrc" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/renderer2/Document.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/index.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/modules/attrs.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/modules/class.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/modules/events.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/renderer2/CommentNode.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/rollup.config.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/node_modules/vue/src/core/vdom/patch.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/renderer2/DocumentNode.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/renderer2/TextNode.js" />
+        <option value="$PROJECT_DIR$/vue-sample/app/app.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/renderer2/__mocks__/utils.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/codecov.yml" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/renderer2/ViewNode.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/renderer2/ElementNode.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/components/list-view.js" />
+        <option value="$PROJECT_DIR$/vue-sample/app/Test.vue" />
+        <option value="$PROJECT_DIR$/vue-sample/app/app-with-vue-files.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/dist/index.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/renderer2/utils.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/framework.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/element-registry.js" />
+        <option value="$PROJECT_DIR$/.stacktrace" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/components/tab-view.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/components/tab-view-item.js" />
+        <option value="$PROJECT_DIR$/vue-sample/package.json" />
+        <option value="$PROJECT_DIR$/vue-sample/app/app-with-tab-view.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/node-ops.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/__test__/renderer/ViewNode.test.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/package.json" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/components/app-bar.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/components/action-bar.js" />
+        <option value="$PROJECT_DIR$/vue-sample/app/app-with-action-bar.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/components/index.js" />
+        <option value="$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/index.js" />
+        <option value="$PROJECT_DIR$/vue-sample/app/testapp.js" />
+        <option value="$PROJECT_DIR$/vue-sample/app/app-with-list-view.js" />
+        <option value="$PROJECT_DIR$/vue-sample/app/package.json" />
+        <option value="$PROJECT_DIR$/vue-sample/app/app-with-router.js" />
+        <option value="$PROJECT_DIR$/samples/app/app.js" />
+        <option value="$PROJECT_DIR$/samples/package.json" />
+        <option value="$PROJECT_DIR$/circle.yml" />
+        <option value="$PROJECT_DIR$/.npmignore" />
+        <option value="$PROJECT_DIR$/samples/app/app-with-list-view.js" />
+        <option value="$PROJECT_DIR$/platform/nativescript/runtime/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path>/usr/bin/bower</exe-path>
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path>/usr/bin/flow</exe-path>
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/samples/node_modules" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nativescript-vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nativescript-vue" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nativescript-vue/coverage/clover.xml" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="debug&#9;ACTION&#9;ActivateDebugToolWindow&#10;coverage&#9;ACTION&#9;CoverageMenu&#10;cover&#9;ACTION&#9;SwitchCoverage&#10;compiler/parser&#9;null&#9;null&#10;recent files&#9;ACTION&#9;RecentChangedFiles" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/nativescript-vue/node_modules/vue/src/core/vdom/create-component.js&#10;/home/rigor789/Code/nativescript-vue/nativescript-vue/node_modules/vue/src/core/instance/lifecycle.js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/platform/nativescript/runtime/components" />
+      <recent name="$PROJECT_DIR$/nativescript-vue/platform/nativescript" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/vue-sample/app" />
+      <recent name="$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/components" />
+      <recent name="$PROJECT_DIR$/nativescript-vue/platform/nativescript/renderer2" />
+      <recent name="$PROJECT_DIR$/nativescript-vue/platform/nativescript/compiler/modules" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="NativeScript.TNS">
+    <configuration default="true" type="#com.seventh7.widget.iedis.run.IedisConfigurationType" factoryName="Redis Lua Script">
+      <option name="CONFIG_ID" value="0" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="PRINT_REDIS_CALL" value="false" />
+      <option name="USE_SYNC" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="ns-app-runner" factoryName="NativeScript">
+      <method />
+    </configuration>
+    <configuration default="false" name="TNS" type="ns-app-runner" factoryName="NativeScript" command="livesync" exePath="/usr/bin/tns" workingDirectory="$PROJECT_DIR$/vue-sample">
+      <option name="platform" value="android" />
+      <option name="myPlatform" value="android" />
+      <option name="myCommand" value="livesync" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="NativeScript.TNS" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c89e4abb-7f9c-4bf4-8b5f-8027651288c0" name="Default" comment="" />
+      <created>1492559591842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492559591842</updated>
+      <workItem from="1492559593229" duration="796000" />
+      <workItem from="1492560448706" duration="17503000" />
+      <workItem from="1492625329582" duration="2316000" />
+      <workItem from="1492627649048" duration="10271000" />
+      <workItem from="1492675975217" duration="6431000" />
+      <workItem from="1492685982188" duration="4768000" />
+      <workItem from="1492692260795" duration="32532000" />
+      <workItem from="1492822366410" duration="119887000" />
+      <workItem from="1493288691265" duration="9526000" />
+      <workItem from="1493301612655" duration="34280000" />
+      <workItem from="1493475623295" duration="336000" />
+      <workItem from="1493476727571" duration="3049000" />
+      <workItem from="1493718874113" duration="2474000" />
+      <workItem from="1493725509216" duration="12002000" />
+      <workItem from="1493796250792" duration="2019000" />
+      <workItem from="1493804094329" duration="495000" />
+      <workItem from="1493808806624" duration="4835000" />
+      <workItem from="1493883755544" duration="355000" />
+      <workItem from="1493978476238" duration="2363000" />
+      <workItem from="1494085881672" duration="10000" />
+      <workItem from="1494087718665" duration="271000" />
+      <workItem from="1496404574019" duration="22000" />
+      <workItem from="1497817049521" duration="7000" />
+      <workItem from="1497873820356" duration="7404000" />
+      <workItem from="1498034627458" duration="3000" />
+      <workItem from="1498220645122" duration="371000" />
+      <workItem from="1498225759180" duration="228000" />
+      <workItem from="1498510049259" duration="1692000" />
+      <workItem from="1499607917689" duration="4685000" />
+      <workItem from="1500030605067" duration="2359000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="283290000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="732" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Redis Servers" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="100" width="1166" height="532" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Flow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39911634" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/components/list-view.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/node_modules/tns-core-modules/ui/tab-view/tab-view.d.ts" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/node_modules/vue/src/shared/util.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/node_modules/vue/src/core/util/debug.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/renderer/utils.js" />
+    <entry file="file://$PROJECT_DIR$/.stacktrace" />
+    <entry file="file://$PROJECT_DIR$/vue-sample/node_modules/tns-core-modules/ui/tab-view/tab-view-common.js" />
+    <entry file="file://$PROJECT_DIR$/vue-sample/node_modules/tns-core-modules/ui/tab-view/tab-view.android.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/renderer/ElementNode.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/components/tab-view-item.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/components/tab-view.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/modules/attrs.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/modules/class.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/modules/events.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/modules/index.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/modules/style.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/patch.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/util/entity-decoder.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/util/index.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/renderer/ViewNode.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/compiler.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/node-ops.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/__test__/renderer/ViewNode.test.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/package.json" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/element-registry.js" />
+    <entry file="file://$PROJECT_DIR$/vue-sample/app/app-with-action-bar.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/components/index.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/framework.js" />
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/platform/nativescript/runtime/index.js" />
+    <entry file="file://$PROJECT_DIR$/vue-sample/app/app-with-vmodel.js" />
+    <entry file="file://$PROJECT_DIR$/vue-sample/app/app-with-tab-view.js" />
+    <entry file="file://$PROJECT_DIR$/vue-sample/app/app.js" />
+    <entry file="file://$PROJECT_DIR$/vue-sample/app/testapp.js" />
+    <entry file="file://$PROJECT_DIR$/vue-sample/app/app-with-router.js" />
+    <entry file="file://$PROJECT_DIR$/vue-sample/app/package.json" />
+    <entry file="file://$PROJECT_DIR$/vue-sample/package.json" />
+    <entry file="file://$PROJECT_DIR$/vue-sample/app/app-with-list-view.js" />
+    <entry file="file://$PROJECT_DIR$/platform/nativescript/runtime/components/action-bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativescript-vue/junit.xml" />
+    <entry file="file://$PROJECT_DIR$/circle.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecov.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.npmignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1178">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding>
+            <marker date="1498509897776" expanded="true" signature="68:749" ph="{&quot;template&quot;: `&#10;        &lt;stack-layout&gt;&#10;            &lt;image style=&quot;height: 200;&quot; :src=&quot;img&quot;&gt;&lt;/image&gt;&#10;            &lt;scroll-view orientation=&quot;horizontal&quot; style=&quot;height: 100&quot;&gt;&#10;                &lt;stack-layout orientation=&quot;horizontal&quot;&gt;&#10;                    &lt;image v-for=&quot;i in 10&quot; key=&quot;i&quot;&#10;                    :src=&quot;i%2 ? '~/images/apple.jpg' : '~/images/vue.png'&quot;&#10;                    @tap=&quot;img = i%2 ? '~/images/apple.jpg' : '~/images/vue.png'&quot;&gt;&lt;/image&gt;&#10;                &lt;/stack-layout&gt;&#10;            &lt;/scroll-view&gt;&#10;        &lt;/stack-layout&gt;&#10;    `...}" />
+            <marker date="1498509897776" expanded="true" signature="105:159" ph="{...}" />
+            <marker date="1498509897776" expanded="true" signature="122:153" ph="{&quot;img&quot;: ''...}" />
+            <marker date="1498509897776" expanded="true" signature="199:685" ph="..." />
+            <marker date="1498509897776" expanded="false" signature="227:239" ph="..." />
+            <marker date="1498509897776" expanded="false" signature="318:329" ph="..." />
+            <marker date="1498509897776" expanded="true" signature="330:661" ph="..." />
+            <marker date="1498509897776" expanded="true" signature="386:634" ph="..." />
+            <marker date="1498509897776" expanded="true" signature="438:602" ph="..." />
+            <marker date="1498509897776" expanded="true" signature="709:747" ph="{...}" />
+            <marker date="1498509897776" expanded="true" signature="760:1712" ph="{&quot;template&quot;: `&#10;        &lt;page&gt;&#10;            &lt;scroll-view&gt;&#10;                &lt;stack-layout&gt;&#10;                    &lt;button @tap=&quot;onTap&quot;&gt;TAP HERE&lt;/button&gt;&#10;                    &lt;button @tap=&quot;textRed = !textRed&quot; style=&quot;color: white; background-color: darkcyan;&quot;&gt;TAP HERE&lt;/button&gt;&#10;                    &lt;label :style=&quot;{color: textRed ? 'red' : 'blue'}&quot;&#10;                            style=&quot;text-align: center; margin-top: 20; font-size: 40&quot;&#10;                            :text=&quot;showTrick ? 'Poof!' : 'Wait for it!'&quot;&gt;&lt;/label&gt;&#10;                    &lt;button @tap=&quot;showTrick = !showTrick&quot;&gt;Tap to see a trick!&lt;/button&gt;&#10;&#10;                    &lt;image-viewer v-if=&quot;showTrick&quot; :imgSrc=&quot;imgSrc&quot;&gt;&lt;/image-viewer&gt;&#10;                &lt;/stack-layout&gt;&#10;            &lt;/scroll-view&gt;&#10;        &lt;/page&gt;&#10;    `...}" />
+            <marker date="1498509897776" expanded="true" signature="791:1514" ph="..." />
+            <marker date="1498509897776" expanded="true" signature="817:1498" ph="..." />
+            <marker date="1498509897776" expanded="true" signature="848:1471" ph="..." />
+            <marker date="1498509897776" expanded="false" signature="970:1011" ph="..." />
+            <marker date="1498509897776" expanded="true" signature="1100:1267" ph="..." />
+            <marker date="1498509897776" expanded="false" signature="1136:1185" ph="..." />
+            <marker date="1498509897776" expanded="true" signature="1534:1628" ph="{&quot;imgSrc&quot;: '~/images/apple.jpg'...}" />
+            <marker date="1498509897776" expanded="true" signature="1644:1710" ph="{...}" />
+            <marker date="1498509897776" expanded="true" signature="1662:1704" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <marker date="1499610775508" expanded="true" signature="0:702" ph="{&quot;description&quot;: &quot;NativeScript Application&quot;...}" />
+            <marker date="1499610775508" expanded="true" signature="207:353" ph="{&quot;id&quot;: &quot;org.nativescript.vuesample&quot;...}" />
+            <marker date="1499610775508" expanded="true" signature="264:296" ph="{&quot;version&quot;: &quot;3.0.1&quot;...}" />
+            <marker date="1499610775508" expanded="true" signature="317:349" ph="{&quot;version&quot;: &quot;3.0.1&quot;...}" />
+            <marker date="1499610775508" expanded="true" signature="373:514" ph="{&quot;nativescript-theme-core&quot;: &quot;~1.0.2&quot;...}" />
+            <marker date="1499610775508" expanded="true" signature="537:700" ph="{&quot;babel-traverse&quot;: &quot;6.24.1&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="232">
+            <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/nativescript/runtime/components/list-view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="106" column="25" lean-forward="false" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
+          <folding>
+            <marker date="1499610026799" expanded="true" signature="51:3866" ph="{&quot;name&quot;: 'list-view'...}" />
+            <marker date="1499610026799" expanded="true" signature="109:404" ph="..." />
+            <marker date="1499610026799" expanded="true" signature="420:672" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="437:500" ph="{&quot;type&quot;: Array...}" />
+            <marker date="1499610026799" expanded="true" signature="528:604" ph="{&quot;type&quot;: Function...}" />
+            <marker date="1499610026799" expanded="true" signature="630:666" ph="{&quot;type&quot;: String...}" />
+            <marker date="1499610026799" expanded="true" signature="689:734" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="751:981" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="880:975" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="995:1151" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="1019:1145" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="1167:3864" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="1193:1244" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="1270:1320" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="1348:1400" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="1433:1490" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="1518:2104" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="1648:2056" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="1688:1979" ph="{&quot;key&quot;: slotName...}" />
+            <marker date="1499610026799" expanded="true" signature="1758:1961" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="2134:2642" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="2217:2271" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="2419:2632" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="2519:2617" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="2673:3239" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="2912:3074" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="2987:3060" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="3289:3858" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="3444:3517" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="3530:3778" ph="//..." />
+            <marker date="1499610026799" expanded="true" signature="3917:4154" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="3986:4035" ph="{...}" />
+            <marker date="1499610026799" expanded="true" signature="4041:4082" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/app/app-with-list-view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="29" column="104" lean-forward="false" selection-start-line="29" selection-start-column="104" selection-end-line="29" selection-end-column="104" />
+          <folding>
+            <marker date="1499617908370" expanded="true" signature="400:4358" ph="{&quot;template&quot;: `&#10;        &lt;page ref=&quot;page&quot;&gt;&#10;            &lt;stack-layout&gt;&#10;                &lt;button class=&quot;btn btn-primary&quot; :text=&quot;subreddit&quot; @tap=&quot;chooseSubreddit&quot;&gt;&lt;/button&gt;&#10;                &lt;list-view :items=&quot;items&quot; class=&quot;list-group&quot; :templateSelector=&quot;templateSelector&quot; separatorColor=&quot;red&quot; @itemTap=&quot;onItemTap&quot; @loaded=&quot;onLoaded&quot; @loadMoreItems=&quot;onLoadMoreItems&quot;&gt;&#10;                    &lt;template scope=&quot;item&quot;&gt;&#10;                        &lt;stack-layout orientation=&quot;horizontal&quot; class=&quot;list-group-item&quot;&gt;&#10;                            &lt;image :src=&quot;item.image&quot; class=&quot;thumb&quot;&gt;&lt;/image&gt;&#10;                            &lt;stack-layout&gt;&#10;                                &lt;label class=&quot;list-group-item-heading&quot; :text=&quot;item.title&quot; textWrap=&quot;true&quot;&gt;&lt;/label&gt;&#10;                                &lt;label class=&quot;list-group-item-text&quot; text=&quot;The rest of the content&quot; textWrap=&quot;true&quot;&gt;&lt;/label&gt;&#10;                            &lt;/stack-layout&gt;&#10;                        &lt;/stack-layout&gt;&#10;                    &lt;/template&gt;&#10;                    &lt;template name=&quot;page&quot; scope=&quot;item&quot;&gt;&#10;                        &lt;stack-layout orientation=&quot;horizontal&quot; class=&quot;list-group-item active&quot;&gt;&#10;                            &lt;label :text=&quot;item.title&quot;&gt;&lt;/label&gt;&#10;                        &lt;/stack-layout&gt;&#10;                    &lt;/template&gt;&#10;                &lt;/list-view&gt;&#10;            &lt;/stack-layout&gt;&#10;        &lt;/page&gt;&#10;    `...}" />
+            <marker date="1499617908370" expanded="true" signature="412:512" ph="{&quot;subreddit&quot;: '/r/funny'...}" />
+            <marker date="1499617908370" expanded="true" signature="555:1839" ph="..." />
+            <marker date="1499617908370" expanded="true" signature="582:1823" ph="..." />
+            <marker date="1499617908370" expanded="true" signature="874:1795" ph="..." />
+            <marker date="1499617908370" expanded="true" signature="918:1480" ph="..." />
+            <marker date="1499617908370" expanded="true" signature="1006:1448" ph="..." />
+            <marker date="1499617908370" expanded="true" signature="1125:1408" ph="..." />
+            <marker date="1499617908370" expanded="true" signature="1536:1766" ph="..." />
+            <marker date="1499617908370" expanded="true" signature="1631:1734" ph="..." />
+            <marker date="1499617908370" expanded="true" signature="1863:1896" ph="{...}" />
+            <marker date="1499617908370" expanded="true" signature="1912:4356" ph="{...}" />
+            <marker date="1499617908370" expanded="true" signature="1935:2749" ph="{...}" />
+            <marker date="1499617908370" expanded="true" signature="2772:2835" ph="{...}" />
+            <marker date="1499617908370" expanded="true" signature="2865:2959" ph="{...}" />
+            <marker date="1499617908370" expanded="true" signature="2993:3065" ph="{...}" />
+            <marker date="1499617908370" expanded="true" signature="3094:3471" ph="{...}" />
+            <marker date="1499617908370" expanded="true" signature="3115:3299" ph="{&quot;title&quot;: 'Change subreddit:'...}" />
+            <marker date="1499617908370" expanded="true" signature="3313:3460" ph="{...}" />
+            <marker date="1499617908370" expanded="true" signature="3345:3446" ph="{...}" />
+            <marker date="1499617908370" expanded="true" signature="3495:4350" ph="{...}" />
+            <marker date="1499617908370" expanded="true" signature="3633:4264" ph="{...}" />
+            <marker date="1499617908370" expanded="true" signature="3667:3771" ph="{&quot;type&quot;: 'page'...}" />
+            <marker date="1499617908370" expanded="true" signature="3825:4118" ph="{...}" />
+            <marker date="1499617908370" expanded="true" signature="3863:4099" ph="{&quot;title&quot;: item.data.title...}" />
+            <marker date="1499617908370" expanded="true" signature="4281:4339" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="63" lean-forward="true" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+          <folding>
+            <marker date="1500032737787" expanded="true" signature="0:5356" ph="{&quot;name&quot;: &quot;vue&quot;...}" />
+            <marker date="1500032737787" expanded="true" signature="256:674" ph="{&quot;type&quot;: &quot;git&quot;...}" />
+            <marker date="1500032737787" expanded="true" signature="693:719" ph="[...]" />
+            <marker date="1500032737787" expanded="true" signature="969:997" ph="{&quot;name&quot;: &quot;Evan You&quot;...}" />
+            <marker date="1500032737787" expanded="true" signature="1009:1063" ph="{&quot;url&quot;: &quot;https://github.com/vuejs/vue/issues&quot;...}" />
+            <marker date="1500032737787" expanded="true" signature="1108:1196" ph="{...}" />
+            <marker date="1500032737787" expanded="true" signature="1128:1192" ph="{&quot;path&quot;: &quot;./node_modules/cz-conventional-changelog&quot;...}" />
+            <marker date="1500032737787" expanded="true" signature="1329:3616" ph="{&quot;babel-core&quot;: &quot;^6.25.0&quot;...}" />
+            <marker date="1500032737787" expanded="true" signature="3629:3670" ph="[...]" />
+            <marker date="1500032737787" expanded="true" signature="3739:3754" ph="[...]" />
+            <marker date="1500032737787" expanded="true" signature="3888:3962" ph="{&quot;type&quot;: &quot;git&quot;...}" />
+            <marker date="1500032737787" expanded="true" signature="3977:5980" ph="{&quot;bench:ssr&quot;: &quot;npm run build:ssr &amp;&amp; node benchmarks/ssr/renderToString.js &amp;&amp; node benchmarks/ssr/renderToStream.js&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform/nativescript/runtime/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1500032696121" expanded="true" signature="7:536" ph="..." />
+            <marker date="1500032696121" expanded="true" signature="906:1096" ph="{...}" />
+            <marker date="1500032696121" expanded="true" signature="1137:1587" ph="{...}" />
+            <marker date="1500032696121" expanded="true" signature="1165:1528" ph="{...}" />
+            <marker date="1500032696121" expanded="true" signature="1207:1521" ph="{...}" />
+            <marker date="1500032696121" expanded="true" signature="1230:1511" ph="{...}" />
+            <marker date="1500032696121" expanded="true" signature="1248:1401" ph="//..." />
+            <marker date="1500032696121" expanded="true" signature="1534:1585" ph="{...}" />
+            <marker date="1500032696121" expanded="true" signature="1637:2271" ph="{...}" />
+            <marker date="1500032696121" expanded="true" signature="1756:2226" ph="{...}" />
+            <marker date="1500032696121" expanded="true" signature="1852:1950" ph="{...}" />
+            <marker date="1500032696121" expanded="true" signature="1974:2220" ph="{...}" />
+            <marker date="1500032696121" expanded="true" signature="2051:2113" ph="{&quot;delimiters&quot;: options.delimiters...}" />
+            <marker date="1500032696121" expanded="true" signature="2344:2608" ph="{...}" />
+            <marker date="1500032696121" expanded="true" signature="2410:2518" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding>
+            <marker date="1500032947578" expanded="true" signature="147:238" ph="{&quot;test&quot;: &quot;jest&quot;...}" />
+            <marker date="1500032947578" expanded="true" signature="881:886" ph="{&quot;vue&quot;: &quot;git+https://github.com/vuejs/vue.git##381b48503aae796c5c21c318cae8b0a8322dde35&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
